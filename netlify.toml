@@ -1,4 +1,3 @@
 [build]
-  base= "archikala-website"
   command = "npm run build"
   publish = ".next" 
